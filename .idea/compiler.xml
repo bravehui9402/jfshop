@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jfshop-gateway" />
+        <module name="jfshop-item-service" />
+        <module name="jfshop-common" />
+        <module name="jfshop-upload" />
+        <module name="jfshop-item-interface" />
+        <module name="jfshop-registry" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jfshop-common" options="-parameters" />
+      <module name="jfshop-gateway" options="-parameters" />
+      <module name="jfshop-item" options="-parameters" />
+      <module name="jfshop-item-interface" options="-parameters" />
+      <module name="jfshop-item-service" options="-parameters" />
+      <module name="jfshop-registry" options="-parameters" />
+      <module name="jfshop-upload" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+2020/02/01 23:58:40 [notice] 10444#9280: signal process started
+2020/02/02 00:14:41 [notice] 13680#7956: signal process started
+2020/02/02 01:26:54 [notice] 992#17320: signal process started
+2020/02/03 11:39:27 [emerg] 16392#7036: unexpected "}" in D:\jfshop\tools\nginx-1.14.0/conf/nginx.conf:63
+2020/02/03 11:39:44 [emerg] 9732#15676: unexpected "}" in D:\jfshop\tools\nginx-1.14.0/conf/nginx.conf:63
+2020/02/03 11:40:34 [emerg] 14384#1832: unexpected "}" in D:\jfshop\tools\nginx-1.14.0/conf/nginx.conf:63
+2020/02/03 11:40:45 [notice] 17304#18836: signal process started
+2020/02/03 11:45:23 [notice] 17508#8580: signal process started
+2020/02/03 11:47:29 [notice] 18500#17864: signal process started
+2020/02/03 11:48:19 [notice] 19264#5152: signal process started
+2020/02/03 11:48:33 [error] 12512#4280: *621 CreateFile() "D:\image/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: image.jfshop.com, request: "GET /favicon.ico HTTP/1.1", host: "image.jfshop.com", referrer: "http://image.jfshop.com/22.jpg"
+2020/02/03 12:21:47 [notice] 6212#17228: signal process started
+2020/02/03 12:22:22 [notice] 15892#14192: signal process started
